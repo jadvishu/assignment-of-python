@@ -1,0 +1,11 @@
+c1="Red"
+c2="Green"
+c3="White"
+c4="Black"
+c5="Pink"
+c6="Yellow"
+#Answer of 5(a)
+print("Colors: ",c1,c2,c3,c5,c6)
+c7="Purple"
+#Answer of 5(b)
+print("colors:  ",c1,c2,c3,c7,c7,c6)
